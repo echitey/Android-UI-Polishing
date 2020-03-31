@@ -1,0 +1,2 @@
+rootProject.name='UI Polishing'
+include ':app'
